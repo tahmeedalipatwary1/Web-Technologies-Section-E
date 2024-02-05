@@ -1,0 +1,31 @@
+<value>
+    <Data>
+        <id>1</id>
+        <name>jhon doe</name>
+        <ADDRESS>H# 38, R#3,Bannai,Dhaka</ADDRESS>
+        <Department> sales </Department>
+        <Salary> $20000 </Salary>
+    </Data>
+
+    <Data>
+        <id>2</id>
+        <name>mark zuckerburg</name>
+        <ADDRESS>Flat# A/1,H#20,R#18,Mirpur Dhaka </ADDRESS>
+        <Department> Accounts </Department>
+        <Salary> $12000 </Salary>
+    </Data>
+
+    <Data>
+        <id>3</id>
+        <name>Ala Voski</name>
+        <ADDRESS>H# 38,R#3,Motijheel</ADDRESS>
+        <Department> Human Resource </Department>
+        <Salary> $30000 </Salary>
+
+    </Data>    
+
+</value>
+
+
+
+    
