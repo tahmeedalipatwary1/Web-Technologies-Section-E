@@ -1,0 +1,35 @@
+/* Night Mode Button Styling */
+.night-mode-btn {
+    background-color: #f4f4f4;
+    color: indianredS;
+    border: none;
+    padding: 10px 20px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.night-mode-btn:hover {
+    background-color: seashell;
+}
+
+.night-mode-btn:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.night-mode {
+    background-color: black;
+    color: white;
+}
